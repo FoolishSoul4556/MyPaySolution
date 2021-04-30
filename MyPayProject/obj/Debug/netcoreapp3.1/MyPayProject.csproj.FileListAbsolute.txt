@@ -1,0 +1,66 @@
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csprojAssemblyReference.cache
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfoInputs.cache
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfo.cs
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CoreCompileInputs.cache
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.exe
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.deps.json
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.json
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.dev.json
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CopyComplete
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\ashis\source\repos\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.exe
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.deps.json
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.json
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.dev.json
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.dll
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.pdb
+B:\Ashish\Education\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csprojAssemblyReference.cache
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfoInputs.cache
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfo.cs
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CoreCompileInputs.cache
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CopyComplete
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
+B:\Ashish\Education\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.exe
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.deps.json
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.json
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.dev.json
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csprojAssemblyReference.cache
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfoInputs.cache
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfo.cs
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CoreCompileInputs.cache
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CopyComplete
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\ashis\OneDrive - TAFE NSW\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.exe
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.deps.json
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.json
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.runtimeconfig.dev.json
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csprojAssemblyReference.cache
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfoInputs.cache
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfo.cs
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CoreCompileInputs.cache
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CopyComplete
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
+C:\Users\Ashish.Varghese\Desktop\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csprojAssemblyReference.cache
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfoInputs.cache
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.AssemblyInfo.cs
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.csproj.CoreCompileInputs.cache
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb

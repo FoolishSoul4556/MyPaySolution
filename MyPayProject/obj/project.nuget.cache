@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cKPTzw4DYp/PS0TBL1vs+PrV0SQsYFb6F4NCiHG5K9hZXlDSfnb+6tx10mgxSileNoMeslVTeSt08fyevu5uvA==",
+  "success": true,
+  "projectFilePath": "B:\\Education\\Certificate 4 in Programming\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashis\\.nuget\\packages\\csvhelper\\27.0.1\\csvhelper.27.0.1.nupkg.sha512",
+    "C:\\Users\\ashis\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
