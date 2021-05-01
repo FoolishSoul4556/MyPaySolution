@@ -42,10 +42,14 @@ namespace MyPayProject
             }
         }
 
-        //TODO: have resident and working class pay record to be transferred into PayRecordWriter
+       
         public virtual string GetDetails()
         {
-            return "";
+
+            return $"------------- EMPLOYEE: {Id} ------------\n" +
+                $"GROSS: {Gross}\n" +
+                $"NET: {Net}\n" +
+                $"TAX: {Tax}\n";
            
         }
 
