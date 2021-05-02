@@ -37,7 +37,7 @@ namespace MyPayProject
         public double Net
         {
             get
-            {
+            {   
                 return Gross - Tax; 
             }
         }
@@ -47,9 +47,9 @@ namespace MyPayProject
         {
 
             return $"------------- EMPLOYEE: {Id} ------------\n" +
-                $"GROSS: {Gross}\n" +
-                $"NET: {Net}\n" +
-                $"TAX: {Tax}\n";
+                $"GROSS: ${Math.Round(Gross, 2)}\n" +
+                $"NET: ${Math.Round(Net, 2)}\n" +
+                $"TAX: ${Math.Round(Tax, 2)}\n";
            
         }
 

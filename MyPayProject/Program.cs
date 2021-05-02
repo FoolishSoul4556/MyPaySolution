@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
+
 namespace MyPayProject
 {
     class Program
@@ -22,12 +23,25 @@ namespace MyPayProject
                     "..",
                     "Import"
                 );
-
                 return Path.GetFullPath(relativePath);
             }
 
-            //TODO: Change file path
-            PayRecordWriter.Write(finalPath, payRecords, true);
+            string ExportFolderPath = GetExportFolderPath();
+            string exportPath = Path.Combine(ExportFolderPath, "{DateTimeNow.Ticks}.csv");
+            PayRecordWriter.Write(exportPath, payRecords, true);
+
+            static string GetExportFolderPath()
+            {
+                string erelativePath = Path.Combine(
+                    AppDomain.CurrentDomain.BaseDirectory,
+                    "..",
+                    "..",
+                    "..",
+                    "Export"
+                );
+                
+                return Path.GetFullPath(erelativePath);
+            }
             
 
         }

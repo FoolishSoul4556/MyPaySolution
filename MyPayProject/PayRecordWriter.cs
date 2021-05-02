@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using CsvHelper;
+using System.IO;
+using System.Globalization;
 using System.Text;
 
 namespace MyPayProject
@@ -15,7 +18,14 @@ namespace MyPayProject
                 {
                     Console.WriteLine(record.GetDetails());
                 }
-                //TODO: using csvHelper to write the .csv file
+            }
+
+            using (var writer = new StreamWriter(file))
+            {
+                using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+                {
+                    csv.WriteRecords(records);
+                }
             }
         }        
     }

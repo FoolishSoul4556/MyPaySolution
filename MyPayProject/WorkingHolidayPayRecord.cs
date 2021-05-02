@@ -36,8 +36,8 @@ namespace MyPayProject
         public override string GetDetails()
         {            
             return base.GetDetails() +
-                $"VISA: {visa}\n" +
-                $"YTD: {YearToDate}\n";
+                $"VISA: ${visa}\n" +
+                $"YTD: ${YearToDate}\n";
         }
     }
 }
