@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace MyPayProject
 {
     public abstract class PayRecord 
