@@ -23,7 +23,11 @@ namespace MyPayProject
 
         public override string GetDetails()
         {
-            return base.GetDetails();
+            return base.GetDetails() + 
+                $"------------- EMPLOYEE: {Id} ------------\n" +
+                $"GROSS: {Gross:C}\n" +
+                $"NET: {Net:C}\n" +
+                $"TAX: {Tax:C}\n";
         }
     }
 }

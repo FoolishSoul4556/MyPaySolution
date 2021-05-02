@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Ashish\\Education\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {}
+    "B:\\Education\\Certificate 4 in Programming\\MyPaySolution\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {}
   },
   "projects": {
-    "B:\\Ashish\\Education\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {
+    "B:\\Education\\Certificate 4 in Programming\\MyPaySolution\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Ashish\\Education\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
+        "projectUniqueName": "B:\\Education\\Certificate 4 in Programming\\MyPaySolution\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
         "projectName": "MyPayProject",
-        "projectPath": "B:\\Ashish\\Education\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
+        "projectPath": "B:\\Education\\Certificate 4 in Programming\\MyPaySolution\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
         "packagesPath": "C:\\Users\\ashis\\.nuget\\packages\\",
-        "outputPath": "B:\\Ashish\\Education\\MyPaySolution\\MyPayProject\\obj\\",
+        "outputPath": "B:\\Education\\Certificate 4 in Programming\\MyPaySolution\\MyPaySolution\\MyPayProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [

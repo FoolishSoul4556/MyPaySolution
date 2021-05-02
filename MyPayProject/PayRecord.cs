@@ -1,7 +1,5 @@
 ﻿using System;
 
-
-
 namespace MyPayProject
 {
     public abstract class PayRecord 
@@ -46,10 +44,13 @@ namespace MyPayProject
         public virtual string GetDetails()
         {
 
-            return $"------------- EMPLOYEE: {Id} ------------\n" +
-                $"GROSS: ${Math.Round(Gross, 2)}\n" +
-                $"NET: ${Math.Round(Net, 2)}\n" +
-                $"TAX: ${Math.Round(Tax, 2)}\n";
+            return "";
+
+                //My intial code that before looking at the assessment.
+                //$"------------- EMPLOYEE: {Id} ------------\n" +
+                //$"GROSS: {Gross:C}\n" +
+                //$"NET: {Net:C}\n" +
+                //$"TAX: {Tax:C}\n";
            
         }
 

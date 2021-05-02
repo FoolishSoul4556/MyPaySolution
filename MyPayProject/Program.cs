@@ -27,7 +27,7 @@ namespace MyPayProject
             }
 
             string ExportFolderPath = GetExportFolderPath();
-            string exportPath = Path.Combine(ExportFolderPath, "{DateTimeNow.Ticks}.csv");
+            string exportPath = Path.Combine(ExportFolderPath, $"{DateTime.Now.Ticks}.csv");
             PayRecordWriter.Write(exportPath, payRecords, true);
 
             static string GetExportFolderPath()
