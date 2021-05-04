@@ -4,7 +4,12 @@ namespace MyPayProject
     public abstract class PayRecord 
     {
         private double[] _hours, _rates; 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="hours"></param>
+        /// <param name="rates"></param>
         protected PayRecord(int id, double[] hours, double[] rates)
         {
             this.Id = id;
@@ -13,8 +18,13 @@ namespace MyPayProject
   
         }
 
-        
+        /// <summary>
+        /// 
+        /// </summary>
         public int Id { get; private set; }
+        /// <summary>
+        /// 
+        /// </summary>
         public double Gross 
         { 
             get 
@@ -28,9 +38,13 @@ namespace MyPayProject
             } 
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
         public abstract double Tax { get; }
-
+        /// <summary>
+        /// 
+        /// </summary>
         public double Net
         {
             get
@@ -39,7 +53,10 @@ namespace MyPayProject
             }
         }
 
-       
+       /// <summary>
+       /// 
+       /// </summary>
+       /// <returns></returns>
         public virtual string GetDetails()
         {
 

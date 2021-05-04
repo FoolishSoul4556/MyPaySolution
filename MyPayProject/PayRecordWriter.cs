@@ -9,7 +9,12 @@ namespace MyPayProject
 {
     class PayRecordWriter
     {
-        //TODO: have resident and working class pay record to be transferred into PayRecordWriter
+       /// <summary>
+       /// 
+       /// </summary>
+       /// <param name="file"></param>
+       /// <param name="records"></param>
+       /// <param name="writeToConsole"></param>
         public static void Write(string file, List<PayRecord> records, bool writeToConsole = false)
         {
             foreach(PayRecord record in records)
