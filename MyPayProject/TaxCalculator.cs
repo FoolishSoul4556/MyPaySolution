@@ -7,10 +7,17 @@ using System.Threading.Tasks;
 
 namespace MyPayProject.Import
 {
+    /// <summary>
+    /// Created solely to calculate the tax, however there are two methods to calculate based of the different employee's data processed through.
+    /// </summary>
     class TaxCalculator
     {
 
-
+        /// <summary>
+        /// Only the ResidentPayRecord data can go through this method has it meets the data needed to be proceed
+        /// </summary>
+        /// <param name="gross">This data is receieved through the ResidentPayRecord class, a total of hours multiplied by rates by the amount shifts the employee has done</param>
+        /// <returns>different values are returned based on what the gross is</returns>
         public static double CalculateResidentialTax(double gross)
         {
             if (gross > -1 && gross <= 72)
@@ -41,6 +48,12 @@ namespace MyPayProject.Import
             return 0;
         }
 
+        /// <summary>
+        /// Only the WorkingHolidayPayRecord data can go through this method has it meets the data needed to be proceed
+        /// </summary>
+        /// <param name="gross">This data is receieved through the WorkingHolidayClass class, a total of hours multiplied by rates by the amount shifts the employee has done</param>
+        /// <param name="yearToDate">The data is only used to identify that only Working Holiday employee's information can only go through</param>
+        /// <returns>different values are returned based on what the gross is</returns>
         public static double CalculateWorkingHolidayTax(double gross, double yearToDate)
         {
             if (gross > -1 && gross <= 37000)

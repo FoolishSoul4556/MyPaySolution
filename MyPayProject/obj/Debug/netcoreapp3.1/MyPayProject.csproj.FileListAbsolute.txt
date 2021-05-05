@@ -88,3 +88,4 @@ B:\Education\Certificate 4 in Programming\MyPaySolution\MyPaySolution\MyPayProje
 B:\Education\Certificate 4 in Programming\MyPaySolution\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.dll
 B:\Education\Certificate 4 in Programming\MyPaySolution\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.pdb
 B:\Education\Certificate 4 in Programming\MyPaySolution\MyPaySolution\MyPayProject\obj\Debug\netcoreapp3.1\MyPayProject.genruntimeconfig.cache
+B:\Education\Certificate 4 in Programming\MyPaySolution\MyPaySolution\MyPayProject\bin\Debug\netcoreapp3.1\MyPayProject.xml

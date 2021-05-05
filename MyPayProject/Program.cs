@@ -5,6 +5,9 @@ using System.IO;
 
 namespace MyPayProject
 {
+    /// <summary>
+    /// The first (main) class that get execute when the code is compiled.
+    /// </summary>
     class Program
     {
         /// <summary>
