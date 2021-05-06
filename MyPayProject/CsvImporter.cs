@@ -108,7 +108,7 @@ namespace MyPayProject
         /// <param name="rates">A array (list) of all the rates</param>
         /// <param name="visa">A string to be used identify who's not a resdient</param>
         /// <param name="yearToDate">Another data like the visa to identify who is not a resident</param>
-        /// <returns>The 'if' & 'else' statements helps in returning the information to the right classes, as the visa and yearToDate only applies to the WorkingHolidayPayRecord.</returns>
+        /// <returns>The 'if' and 'else' statements helps in returning the information to the right classes, as the visa and yearToDate only applies to the WorkingHolidayPayRecord.</returns>
         public static PayRecord CreatePayRecord(int id, double[] hours, double[] rates, string visa, string yearToDate)
         {
             if (visa != "" && yearToDate != "")
