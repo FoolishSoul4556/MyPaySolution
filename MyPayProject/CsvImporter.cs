@@ -6,8 +6,11 @@ using System.IO;
 using System.Globalization;
 
 namespace MyPayProject
-{
-    class CsvImporter
+{   
+    /// <summary>
+    /// A class created to import the .csv file in
+    /// </summary>
+    public class CsvImporter
     {
         /// <summary>
         /// To process the importing of the .csv file

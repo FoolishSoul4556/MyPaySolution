@@ -24,7 +24,8 @@ namespace MyPayProject
         {
             get
             {
-                return TaxCalculator.CalculateWorkingHolidayTax(Gross, YearToDate);
+                var TT = TaxCalculator.CalculateWorkingHolidayTax(Gross, YearToDate);
+                return Math.Round(TT, 2);
             }
         }
 

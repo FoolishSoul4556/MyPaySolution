@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <Folder Include="Export\" />
+    <Folder Include="Export\" />
   </ItemGroup>
 
 </Project>

@@ -41,7 +41,7 @@ namespace MyPayProject
                 {
                     gross += _hours[i] * _rates[i];
                 }
-                return gross; 
+                return Math.Round(gross, 2); 
             } 
         }
 
@@ -56,7 +56,7 @@ namespace MyPayProject
         {
             get
             {   
-                return Gross - Tax; 
+                return Math.Round(Gross - Tax, 2); 
             }
         }
 

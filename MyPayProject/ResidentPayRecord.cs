@@ -30,7 +30,8 @@ namespace MyPayProject
         {
             get
             {
-                return TaxCalculator.CalculateResidentialTax(Gross);
+                var tt = TaxCalculator.CalculateResidentialTax(Gross);
+                return Math.Round(tt, 2);
             }
         }
 

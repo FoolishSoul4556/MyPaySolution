@@ -22,11 +22,8 @@ namespace MyPayProject
             string finalPath = Path.Combine(inputFolderPath, "employee-payroll-data.csv");
             List<PayRecord> payRecords = CsvImporter.ImportPayRecords(finalPath);
             
-            ///<summary>
-            /// To access the file path in order to access the .csv file
-            /// </summary>
-            /// <remarks>The use of relativePath is cruical in finding obtaining the data to initialize the data reading process</remarks>
-            /// <returns>the string contain the full path</returns>
+
+            
             static string GetInputFolderPath()
             {
                 string relativePath = Path.Combine(
@@ -43,11 +40,7 @@ namespace MyPayProject
             string exportPath = Path.Combine(ExportFolderPath, $"{DateTime.Now.Ticks}.csv");
             PayRecordWriter.Write(exportPath, payRecords, true);
 
-            ///<summary>
-            /// To get information from the PayRecordWriter and write data into .csv file.
-            /// </summary>
-            /// <remarks>This is only executed after all other methods has met its logic and processed.</remarks>
-            /// <returns>the string contain the full path and finalises in creating the document inside the Export folder</returns>
+           
             static string GetExportFolderPath()
             {
                 string erelativePath = Path.Combine(

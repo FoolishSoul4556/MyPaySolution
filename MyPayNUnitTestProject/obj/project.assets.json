@@ -4668,20 +4668,20 @@
   },
   "packageFolders": {
     "C:\\Users\\ashis\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Ashish\\Education\\TAFE - Cert 4\\MyPaySolution\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
+      "projectUniqueName": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
       "projectName": "MyPayNUnitTestProject",
-      "projectPath": "B:\\Ashish\\Education\\TAFE - Cert 4\\MyPaySolution\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
+      "projectPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\ashis\\.nuget\\packages\\",
-      "outputPath": "B:\\Ashish\\Education\\TAFE - Cert 4\\MyPaySolution\\MyPayNUnitTestProject\\obj\\",
+      "outputPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayNUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
@@ -4701,8 +4701,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "B:\\Ashish\\Education\\TAFE - Cert 4\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {
-              "projectPath": "B:\\Ashish\\Education\\TAFE - Cert 4\\MyPaySolution\\MyPayProject\\MyPayProject.csproj"
+            "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj": {
+              "projectPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj"
             }
           }
         }

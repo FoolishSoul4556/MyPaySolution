@@ -10,7 +10,7 @@ namespace MyPayProject
     /// <summary>
     /// The class solely used to towards the end of program's process where the all data gets collected to be send to Program class to display and  write .csv file with the new data (id, gross, tax, net and ytd).
     /// </summary>
-    class PayRecordWriter
+    public class PayRecordWriter
     {
        /// <summary>
        /// a method solely used to write the data into the console as well as .csv file
