@@ -56,19 +56,20 @@ namespace MyPayProject.Import
         /// <returns>different values are returned based on what the gross is</returns>
         public static double CalculateWorkingHolidayTax(double gross, double yearToDate)
         {
-            if (gross > -1 && gross <= 37000)
+            double totalGYTD = yearToDate + gross;
+            if (totalGYTD > -1 && totalGYTD <= 37000)
             {
                 return gross * 0.15;
             }
-            else if (gross > 37000 && gross <= 90000)
+            else if (totalGYTD > 37000 && totalGYTD <= 90000)
             {
                 return gross * 0.32;
             }
-            else if (gross > 90000 && gross <= 180000)
+            else if (totalGYTD > 90000 && totalGYTD <= 180000)
             {
                 return gross * 0.37;
             }
-            else if (gross > 180000 && gross <= 9999999)
+            else if (totalGYTD > 180000 && totalGYTD <= 9999999)
             {
                 return gross * 0.45;
             }

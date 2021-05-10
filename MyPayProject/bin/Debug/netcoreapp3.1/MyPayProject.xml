@@ -167,11 +167,6 @@
             Gets information needed from the WorkingHolidayPayRecord method, which this information later sends to the GetDetails method.
             </summary>
         </member>
-        <member name="F:MyPayProject.WorkingHolidayPayRecord.ytd">
-            <summary>
-            An variable created to collect the value needed to do mathematic calculation to the YearToDate getter and setter
-            </summary>
-        </member>
         <member name="P:MyPayProject.WorkingHolidayPayRecord.YearToDate">
             <summary>
             Gets the information from the WorkingHolidayPayRecord method as well but getter returns ytd and setter is used set ytd as it's value
