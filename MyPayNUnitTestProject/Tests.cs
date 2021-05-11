@@ -75,8 +75,6 @@ namespace MyPayNUnitTestProject
                     "Export"
                 );
 
-              
-            
             string exportPath = Path.Combine(erelativePath, "Testresults.csv");
             PayRecordWriter.Write(exportPath, _records, true);
 

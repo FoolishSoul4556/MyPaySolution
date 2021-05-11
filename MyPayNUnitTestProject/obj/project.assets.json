@@ -4674,11 +4674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
+      "projectUniqueName": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
       "projectName": "MyPayNUnitTestProject",
-      "projectPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
+      "projectPath": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayNUnitTestProject\\MyPayNUnitTestProject.csproj",
       "packagesPath": "C:\\Users\\ashis\\.nuget\\packages\\",
-      "outputPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayNUnitTestProject\\obj\\",
+      "outputPath": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayNUnitTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -4701,8 +4701,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj": {
-              "projectPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj"
+            "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {
+              "projectPath": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\MyPayProject.csproj"
             }
           }
         }

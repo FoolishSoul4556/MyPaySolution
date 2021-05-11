@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj": {}
+    "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {}
   },
   "projects": {
-    "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj": {
+    "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\MyPayProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj",
+        "projectUniqueName": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
         "projectName": "MyPayProject",
-        "projectPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\MyPayProject.csproj",
+        "projectPath": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\MyPayProject.csproj",
         "packagesPath": "C:\\Users\\ashis\\.nuget\\packages\\",
-        "outputPath": "B:\\Education\\Certificate 4 in Programming\\MyPayProject\\MyPayProject\\obj\\",
+        "outputPath": "B:\\Education\\Certificate 4 in Programming\\Assessments\\Varghese-Ashish-Program1-Project\\MyPaySolution\\MyPayProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "B:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
